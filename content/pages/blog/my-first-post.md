@@ -7,6 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   altText: Hero section image
+  url: /images/about.jpg
 bottomSections: []
 layout: PostLayout
 ---
