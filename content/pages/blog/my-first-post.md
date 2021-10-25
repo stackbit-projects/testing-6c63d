@@ -6,7 +6,7 @@ excerpt: >-
   posts.
 featuredImage:
   type: ImageBlock
-  altText: Post thumbnail image
+  altText: Hero section image
 bottomSections: []
 layout: PostLayout
 ---
