@@ -84,6 +84,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: Interesting updates
   - type: TestimonialsSection
     colors: colors-h
     backgroundWidth: full
